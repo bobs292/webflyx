@@ -1,1 +1,1 @@
-This Project was done to test the use of git. 
+This Project was done to learn git. 
